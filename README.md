@@ -1,11 +1,11 @@
-## Hi there, I'm Haziq Khairi - aka Kyziq 👋 
+## Hi there, I'm Haziq Khairi - aka Kyziq <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 👯 CS Student from Malaysia
 - 🌱 Currently learning Java, Data Structure and Database
 - ⚡ Loves anime and manga
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyziq&label=Profile%20views&color=0e75b6&style=flat" alt="kyziq" /> </p>
 
 --- 
-### Socials:
+**Socials:**
 <a href="https://dev.to/kyziq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kyziq" height="30" width="40" /></a>
 <a href="https://twitter.com/krulziq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krulziq" height="30" width="40" /></a>
 <a href="https://instagram.com/krulziq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krulziq" height="30" width="40" /></a>
