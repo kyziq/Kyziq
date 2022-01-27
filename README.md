@@ -1,6 +1,6 @@
 ## Hi there, I'm Haziq Khairi - aka Kyziq <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 👯 CS Student from Malaysia
-- 🌱 Currently learning Java, Data Structure and Database
+- 🌱 Currently learning Java, data structure and database system
 - ⚡ Loves anime and manga
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyziq&label=Profile%20views&color=0e75b6&style=flat" alt="kyziq" /> </p>
 
