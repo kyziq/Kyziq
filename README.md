@@ -13,25 +13,17 @@
 </p>
 
 ### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="Java" width="26px" src="https://plumbr.io/app/uploads/2019/06/java.png" />]
-[<img align="left" alt="C++" width="26px" src="https://simpleicons.org/icons/cplusplus.svg" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>]
-
-
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="java" width="30" height="30"/> </a>
 </p>
 
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyziq&show_icons=true&locale=en&layout=compact" alt="kyziq" /></p>
-
-
+-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyziq&show_icons=true&locale=en" alt="kyziq" /></p>
-
+-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyziq&" alt="kyziq" /></p>
