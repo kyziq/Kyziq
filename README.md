@@ -1,6 +1,6 @@
 ## Hi there, I'm Haziq Khairi - aka Kyziq 👋 
 - 👯 A CS Student from Malaysia
-- 🌱 I’m currently learning Java and Data Structur
+- 🌱 I’m currently learning Java and Data Structure
 - ⚡ Loves anime and manga
 
 --- 
