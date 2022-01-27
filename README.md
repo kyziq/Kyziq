@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Haziq Khairi - aka [Kyziq][website] 👋 
+### Hi there, I'm Haziq Khairi - aka Kyziq 👋 
 - 👯 A CS Student from Malaysia
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Loves anime and manga
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Socials:
 [<img align="left" alt="Kyziq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Kyziq | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kyziq | Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" />][spotify]
+[<img align="left" alt="Kyziq | Spotify" width="22px" src="https://simpleicons.org/icons/spotify.svg" />][spotify]
 
 <br />
 
@@ -102,6 +102,7 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/krulziq
 [instagram]: https://instagram.com/krulziq
 [spotify]: https://open.spotify.com/user/5t129ysv7rg999uimpfhj1z68
+
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
