@@ -3,6 +3,7 @@
 - 🌱 Currently learning Java, Data Structure and Database
 - ⚡ Loves anime and manga
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyziq&label=Profile%20views&color=0e75b6&style=flat" alt="kyziq" /> </p>
+
 --- 
 ### Socials:
 <a href="https://dev.to/kyziq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kyziq" height="30" width="40" /></a>
