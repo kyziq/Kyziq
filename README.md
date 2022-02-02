@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyziq&show_icons=true&locale=en" alt="kyziq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyziq&" alt="kyziq" /></p>
+
+<p><img align="center" src="https://i.ibb.co/NjKNLNN/Typing-2-150-WPM-25words.png" alt="kyziq" /></p>
