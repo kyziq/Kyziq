@@ -4,7 +4,7 @@
 - 📺 Loves anime and manga
 - 🎮 Gameeeeeeeeer (FPS, MOBA, Survival, RPG)
 - ⚽ Soccer, Running, Taekwondo
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyziq&label=Profile%20views&color=0e75b6&style=flat" alt="kyziq" /> </p>
+<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyziq&label=Profile%20views&color=0e75b6&style=flat" alt="kyziq" /> </p> !--->
 
 --- 
 <!---
