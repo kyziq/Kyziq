@@ -27,9 +27,9 @@
 ---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyziq&show_icons=true&locale=en&layout=compact" alt="kyziq" /></p>
-
+<!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyziq&show_icons=true&locale=en" alt="kyziq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyziq&" alt="kyziq" /></p>
-
+!--->
 <p><img align="center" src="https://i.ibb.co/NjKNLNN/Typing-2-150-WPM-25words.png" alt="kyziq" width="600" height="200"/></p>
