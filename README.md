@@ -1,6 +1,6 @@
 ## Hi there, I'm Haziq Khairi - aka Kyziq <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 👋 CS Student from Malaysia
-- 📚 Currently learning Java, data structure and database system
+- 📚 Currently learning Java, data structures and db2
 - 📺 Loves anime and manga
 - 🎮 Gameeeeeeeeer (FPS, MOBA, Survival, RPG)
 - ⚽ Soccer, Running, Taekwondo
