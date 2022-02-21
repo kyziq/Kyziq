@@ -14,7 +14,7 @@
 <a href="https://open.spotify.com/user/5t129ysv7rg999uimpfhj1z68" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="kyziq" height="30" width="35" /></a>
 </p>*/
 !--->
-### Languages and Tools:
+### Languages and tools I used:
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="30"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="30"/> </a> 
@@ -23,9 +23,9 @@
 </p>
 
 ---
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyziq&show_icons=true&locale=en&layout=compact" alt="kyziq" /></p>
 <!---
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyziq&show_icons=true&locale=en&layout=compact" alt="kyziq" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyziq&show_icons=true&locale=en" alt="kyziq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyziq&" alt="kyziq" /></p>
