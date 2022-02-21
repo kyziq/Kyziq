@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyziq&" alt="kyziq" /></p>
 !--->
-<p><img align="center" src="https://i.ibb.co/NjKNLNN/Typing-2-150-WPM-25words.png" alt="kyziq" width="600" height="200"/></p>
+<p><img align="center" src="https://cdn.discordapp.com/attachments/902752147903492136/945331552076840991/unknown.png" alt="kyziq" width="600" height="200"/></p>
