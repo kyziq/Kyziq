@@ -1,4 +1,5 @@
 ## Hey, I'm Haziq Khairi - aka Kyziq <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <!---- 👋 CS Student from Malaysia
 - 📚 Currently learning HTML
 - 💻 Programming is my passion!
@@ -22,14 +23,14 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="java" width="35" height="30"/> </a>
 </p>
--->
----
+
+--- -->
 <!---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyziq&show_icons=true&locale=en&layout=compact" alt="kyziq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyziq&show_icons=true&locale=en" alt="kyziq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyziq&" alt="kyziq" /></p>
-!--->
+
 MonkeyType
-<p><img align="center" src="https://cdn.discordapp.com/attachments/902752147903492136/945331552076840991/unknown.png" alt="kyziq"/></p>
+<p><img align="center" src="https://cdn.discordapp.com/attachments/902752147903492136/945331552076840991/unknown.png" alt="kyziq"/></p>!--->
