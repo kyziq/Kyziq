@@ -31,6 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyziq&show_icons=true&locale=en" alt="kyziq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyziq&" alt="kyziq" /></p>
-
+--->
 MonkeyType
-<p><img align="center" src="https://cdn.discordapp.com/attachments/902752147903492136/945331552076840991/unknown.png" alt="kyziq"/></p>!--->
+<p><img align="center" src="https://media.discordapp.net/attachments/737895516163145748/967728992251682816/Typing.png" width="70%" alt="kyziq"/></p>
