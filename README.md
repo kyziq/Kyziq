@@ -33,4 +33,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyziq&" alt="kyziq" /></p>
 --->
 MonkeyType
-<p><img align="center" src="https://media.discordapp.net/attachments/737895516163145748/967728992251682816/Typing.png" width="70%" alt="kyziq"/></p>
+<p><img align="center" src="https://cdn.discordapp.com/attachments/737895516163145748/967774268102426624/unknown.png" width="70%" alt="kyziq"/></p>
