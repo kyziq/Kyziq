@@ -34,4 +34,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyziq&show_icons=true&locale=en&layout=compact" alt="kyziq" /></p>
 
 MonkeyType
-<p><img align="center" src="https://cdn.discordapp.com/attachments/737895516163145748/973401880329846784/unknown.png" width="70%" alt="kyziq"/></p>
+<p><img align="center" src="https://cdn.discordapp.com/attachments/737895516163145748/988493617079386112/unknown.png?size=4096" width="70%" alt="kyziq"/></p>
