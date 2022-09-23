@@ -1,5 +1,5 @@
 ## Hey, I'm Haziq Khairi
-I love to learn, especially about programming. As a career goal, I hope to one day become a fantastic full-stack developer (Wish me!).
+I love to learn, especially about programming. As a career goal, I hope to one day become an amazing full-stack developer (Wish me!).
 <!---- 👋 CS Student from Malaysia
 - 📚 Currently learning HTML
 - 💻 Programming is my passion!
@@ -31,7 +31,9 @@ I love to learn, especially about programming. As a career goal, I hope to one d
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyziq&" alt="kyziq" /></p>
 --->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyziq&show_icons=true&locale=en&layout=compact" alt="kyziq" /></p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyziq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 MonkeyType (WPM (words per minute) / Accuracy)
 <p><img align="center" src="https://cdn.discordapp.com/attachments/737895516163145748/1002235257531138088/unknown.png" width="70%" alt="kyziq"/></p>
