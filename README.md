@@ -1,5 +1,5 @@
 ## Hey, I'm Haziq Khairi
-I love to learn, especially about programming. As a career goal, I hope to one day become an amazing full-stack developer (Wish me!).
+I love to learn, especially about programming. Interested in both front-end and back-end development. As a career goal, I hope to one day become an amazing full-stack developer (Wish me!).
 <!---- 👋 CS Student from Malaysia
 - 📚 Currently learning HTML
 - 💻 Programming is my passion!
