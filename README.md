@@ -1,39 +1,34 @@
-## Hey, I'm Haziq Khairi
-I love to learn, especially about programming. Interested in both front-end and back-end development. As a career goal, I hope to one day become an amazing full-stack developer (Wish me!).
-<!---- 👋 CS Student from Malaysia
-- 📚 Currently learning HTML
-- 💻 Programming is my passion!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyziq&label=Profile%20views&color=0e75b6&style=flat" alt="kyziq" /> </p>
 
---- !--->
-<!---
-### Socials:
-<a href="https://dev.to/kyziq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kyziq" height="30" width="40" /></a>
-<a href="https://twitter.com/krulziq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krulziq" height="30" width="40" /></a>
-<a href="https://instagram.com/krulziq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krulziq" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kyziq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kyziq" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/5t129ysv7rg999uimpfhj1z68" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="kyziq" height="30" width="35" /></a>
-</p>*/
-!--->
-<!--
-### Languages and tools I used:
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="30"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="30"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="java" width="35" height="30"/> </a>
+<p align="center">
+Hey, I'm Haziq Khairi
 </p>
 
---- -->
-<!---
+<p align="center">
+<img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="300" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyziq&show_icons=true&locale=en" alt="kyziq" /></p>
+<p align="center">
+I love to learn, especially about programming. Interested in both front-end and back-end development. As a career goal, I hope to one day become an amazing full-stack developer (Wish me!).
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyziq&" alt="kyziq" /></p>
---->
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyziq&layout=compact" />
+</a>
+</p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyziq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
 <a href="https://monkeytype.com/profile/Kyziq">Typing Speed</a> (WPM (words per minute) / Accuracy)
-<p><img align="center" src="https://media.discordapp.net/attachments/737895516163145748/1034681106164895804/unknown.png" width="70%" alt="kyziq"/></p>
+<img align="center" src="https://media.discordapp.net/attachments/737895516163145748/1034681106164895804/unknown.png" width="70%" alt="kyziq"/>
+</p>
+
+
+<!--
+<img src="https://komarev.com/ghpvc/?username=kyziq&label=Profile%20views&color=0e75b6&style=flat" alt="kyziq" />
+
+<!--
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyziq&show_icons=true&locale=en" alt="kyziq" />
+-->
+<!--
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyziq&" alt="kyziq" />
+-->
