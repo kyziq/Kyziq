@@ -35,5 +35,5 @@ I love to learn, especially about programming. Interested in both front-end and 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyziq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-MonkeyType (WPM (words per minute) / Accuracy)
+<a href="https://monkeytype.com/">Typing Speed</a> (WPM (words per minute) / Accuracy)
 <p><img align="center" src="https://cdn.discordapp.com/attachments/737895516163145748/1002235257531138088/unknown.png" width="70%" alt="kyziq"/></p>
