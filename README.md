@@ -39,7 +39,7 @@
   <summary><b>:octocat: GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kyziq&show_icons=true&locale=en" alt="kyziq" align="center" /> &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=kyziq&show_icons=true&locale=en" alt="kyziq" align="center" /> <br> <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyziq&" alt="kyziq" align="center" /> <br> <br>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kyziq&show_icons=true&locale=en&compact" alt="Kyziq" />
   <br/>
