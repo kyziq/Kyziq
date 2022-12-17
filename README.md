@@ -21,7 +21,7 @@
 - 👋 Hi, I’m **Haziq Khairi**
 - 💼 I am currently having an internship at **Penril Datability (M) Sdn. Bhd.**
 - 📚 I enjoy learning new things, especially about programming. Interested in both front-end and back-end development.
-- 💭 My **dream** is to become an amazing full-stack developer one day!
+- 💭 My **aspiration** is to become an amazing full-stack developer one day!
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
