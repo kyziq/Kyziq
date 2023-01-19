@@ -23,6 +23,7 @@
 - 📚 I enjoy learning new things, especially about programming. Interested in both front-end and back-end development.
 - 💭 My **aspiration** is to become an amazing full-stack developer one day!
 
+<!---
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <h4>Languages</h4>
@@ -78,7 +79,8 @@
 <a href="https://www.eclipse.org/" target="_blank">
 	<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
 </a>
-
+-->
+	
 <h2> Additional Info <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
 <details>
@@ -99,8 +101,6 @@
 	<img alt="Typing Speed" src="https://cdn.discordapp.com/attachments/737895516163145748/1050525509609607279/image.png?size=4096" width="90%"/>
 </div>
 </details>
-
-<br>
 
 ---
 
