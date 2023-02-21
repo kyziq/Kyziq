@@ -10,6 +10,7 @@
 	<img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 </a>
 
+<!---
 <a href="https://www.hackerrank.com/Kyziq" target="_blank">
 	<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </a>
@@ -17,7 +18,8 @@
 <a href="https://leetcode.com/Kyziq/" target="_blank">
 	<img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
 </a>
-
+-->
+	
 - 👋 Hi, I’m **Haziq Khairi**
 - 💼 I am currently having an internship at **Penril Datability (M) Sdn. Bhd.**
 - 📚 I enjoy learning new things, especially about programming. Interested in both front-end and back-end development.
