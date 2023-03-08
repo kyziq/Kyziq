@@ -10,6 +10,10 @@
 	<img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 </a>
 
+<a href="https://www.codewars.com/users/Kyziq/" target="_blank">
+	<img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
+</a>
+	
 <!---
 <a href="https://www.hackerrank.com/Kyziq" target="_blank">
 	<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
@@ -21,7 +25,7 @@
 -->
 	
 - 👋 Hi, I’m **Haziq Khairi**
-- 💼 I am currently having an internship at **Penril Datability (M) Sdn. Bhd.**
+- 💼 I am currently studying while working part-time at **Penril Datability (M) Sdn. Bhd.**
 - 📚 I enjoy learning new things, especially about programming. Interested in both front-end and back-end development.
 - 💭 My **aspiration** is to become an amazing full-stack developer one day!
 
