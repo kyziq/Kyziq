@@ -104,7 +104,7 @@
 <summary><b>💻 Typing Speed</b></summary>
 <div align="center">
 	<a href="https://monkeytype.com/profile/Kyziq">via MonkeyType</a>, WPM (words per minute) / Accuracy
-	<img alt="Typing Speed" src="https://cdn.discordapp.com/attachments/737895516163145748/1050525509609607279/image.png?size=4096" width="90%"/>
+	<img alt="Typing Speed" src="https://cdn.discordapp.com/attachments/737895516163145748/1110576951816630272/image.png?size=4096" width="90%"/>
 </div>
 </details>
 
