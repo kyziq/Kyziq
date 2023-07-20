@@ -2,7 +2,7 @@
     <h1 align="left">Haziq Khairi 😎 </h1>
 </div>
 
-**`Fullstack Wannabe [Undergraduate Student|Part Time Software Engineer]`**
+**`Fullstack Dev Wannabe [ Undergraduate Student | Part Time Software Engineer ]`**
 
 <p style='text-align: justify;'>
 Hello and welcome to my GitHub profile! I'm Haziq, a highly motivated and dedicated computer science student. My passion lies in full stack development, and I'm determined to build a successful career in this field. To achieve this goal, I constantly engage in self-study and collaboration with my peers, striving to improve my skills and become a proficient full stack developer.
@@ -58,11 +58,11 @@ Hello and welcome to my GitHub profile! I'm Haziq, a highly motivated and dedica
 </details>
 
 <div align="center">
-
-![snake gif](https://github.com/Kyziq/Kyziq/blob/output/github-contribution-grid-snake.svg)
-
+	
+![snake gif](https://github.com/Kyziq/Kyziq/blob/output/github-contribution-grid-snake-dark.svg)
+ 
 </div>
  
-<!-- <img src="https://komarev.com/ghpvc/?username=kyziq&label=Profile%20views&color=0e75b6&style=flat" alt="kyziq" align="center" /> -->
+<!--  ![](https://komarev.com/ghpvc/?username=Kyziq&color=blue)  -->
 
 ![](https://hit.yhype.me/github/profile?user_id=77775117)
