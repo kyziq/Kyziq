@@ -10,10 +10,10 @@ Hello and welcome to my GitHub profile! I'm Haziq, a highly motivated and dedica
 
 <p align="left">
     <a href="https://www.linkedin.com/in/HaziqKhairi/" target="_blank">
-        <img alt="LinkedIn" title="Checkout My LinkedIn Profile" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        <img alt="LinkedIn" title="Checkout My LinkedIn Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:ihaziqkhairi@gmail.com">
-        <img alt="E-mail" title="Contact me via E-mail" src="https://custom-icon-badges.demolab.com/badge/Email-8B0000?style=for-the-badge&logo=mail&logoColor=white">
+        <img alt="E-mail" title="Contact me via E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </p>
 	
