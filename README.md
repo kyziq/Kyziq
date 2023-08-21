@@ -1,27 +1,16 @@
-<div align="center">
-    <h1 align="left">Haziq Khairi 😎 </h1>
-</div>
+# Haziq Khairi 😎
 
 **`Fullstack Dev Wannabe [ Undergraduate Student | Part Time Software Engineer ]`**
 
-<p style='text-align: justify;'>
 Hello and welcome to my GitHub profile! I'm Haziq, a highly motivated and dedicated computer science student. My passion lies in full stack development, and I'm determined to build a successful career in this field. To achieve this goal, I constantly engage in self-study and collaboration with my peers, striving to improve my skills and become a proficient full stack developer.
-</p>
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/HaziqKhairi/" target="_blank">
-        <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:ihaziqkhairi@gmail.com" target="_blank">
-        <img alt="E-mail" src="https://custom-icon-badges.demolab.com/badge/Email-8B0000?style=for-the-badge&logo=mail&logoColor=white">
-    </a>
-    <a href="https://leetcode.com/Kyziq/" target="_blank">
-        <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
-    </a>
-</p>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HaziqKhairi/)
+[![Email](https://custom-icon-badges.demolab.com/badge/Email-8B0000?style=for-the-badge&logo=mail&logoColor=white)](mailto:ihaziqkhairi@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c0)](https://leetcode.com/Kyziq/)
+
+![snake gif](https://github.com/Kyziq/Kyziq/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
-
 <h2 align="left">Languages & Tools</h2>
 <div>
 	<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -44,7 +33,6 @@ Hello and welcome to my GitHub profile! I'm Haziq, a highly motivated and dedica
 	<img alt="OracleDB" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 	<img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </div>
-
 -->
 
 <h2> Additional Info </h2>
@@ -62,10 +50,8 @@ Hello and welcome to my GitHub profile! I'm Haziq, a highly motivated and dedica
 
 <details>
 <summary><b>⌚ Waka Stats</b></summary>
-<br/>
-	
+
 <!--START_SECTION:waka-->
-	
 <!--END_SECTION:waka-->
 
 </details>
@@ -78,13 +64,3 @@ Hello and welcome to my GitHub profile! I'm Haziq, a highly motivated and dedica
 	<img alt="Typing Speed" src="https://cdn.discordapp.com/attachments/737895516163145748/1110576951816630272/image.png?size=4096" width="90%"/>
 </div>
 </details>
-
-<div align="center">
-	
-![snake gif](https://github.com/Kyziq/Kyziq/blob/output/github-contribution-grid-snake-dark.svg)
- 
-</div>
- 
-<!--  ![](https://komarev.com/ghpvc/?username=Kyziq&color=blue)  -->
-
-![](https://hit.yhype.me/github/profile?user_id=77775117)
