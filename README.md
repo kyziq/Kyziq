@@ -49,7 +49,7 @@ Hello and welcome to my GitHub profile! I'm Haziq, a highly motivated and dedica
 
 <details>
 <summary><b>⌚ Waka Stats</b></summary>
-
+<br/>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -66,8 +66,10 @@ XML              7 mins          ▓░░░░░░░░░░░░░░�
 
 <details>
 <summary><b>💻 Typing Speed</b></summary>
+<br/>
 <div align="center">
 	<a href="https://monkeytype.com/profile/Kyziq">via MonkeyType</a>, Time/Words | WPM | Accuracy
-	<img alt="Typing Speed" src="../Kyziq/img/typing-speed.png" width="90%"/>
+	<img alt="Typing Speed" src="/img/typing-speed.png" width="70%"/>
 </div>
+
 </details>
