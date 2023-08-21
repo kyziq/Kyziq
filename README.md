@@ -2,7 +2,7 @@
 
 **`Fullstack Dev Wannabe [ Undergraduate Student | Part Time Software Engineer ]`**
 
-Hello and welcome to my GitHub profile! I'm Haziq, a highly motivated and dedicated computer science student. My passion lies in full stack development, and I'm determined to build a successful career in this field. To achieve this goal, I constantly engage in self-study and collaboration with my peers, striving to improve my skills and become a proficient full stack developer.
+Hey there! I'm Haziq, a highly motivated and dedicated computer science student with a strong passion for full stack development 🚀. Constantly engaged in self-study and collaboration with peers, I'm on a mission to enhance my skills and become a proficient full stack developer. What's more, I'm not just coding; I'm also a lightning-fast typist, clocking in at 100+ words per minute with impressive accuracy 💨.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HaziqKhairi/)
 [![Email](https://custom-icon-badges.demolab.com/badge/Email-8B0000?style=for-the-badge&logo=mail&logoColor=white)](mailto:ihaziqkhairi@gmail.com)
