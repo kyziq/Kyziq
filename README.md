@@ -52,6 +52,15 @@ Hello and welcome to my GitHub profile! I'm Haziq, a highly motivated and dedica
 <summary><b>⌚ Waka Stats</b></summary>
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript       4 hrs 41 mins   ███████████████████▓░░░░░   78.13 %
+JSON             28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Groovy           19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Java             15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+XML              7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+```
+
 <!--END_SECTION:waka-->
 
 </details>
