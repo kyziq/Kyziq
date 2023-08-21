@@ -8,7 +8,7 @@ Hello and welcome to my GitHub profile! I'm Haziq, a highly motivated and dedica
 [![Email](https://custom-icon-badges.demolab.com/badge/Email-8B0000?style=for-the-badge&logo=mail&logoColor=white)](mailto:ihaziqkhairi@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c0)](https://leetcode.com/Kyziq/)
 
-![snake gif](https://github.com/Kyziq/Kyziq/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake Contribution GIF](https://github.com/Kyziq/Kyziq/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 <h2 align="left">Languages & Tools</h2>
@@ -47,7 +47,6 @@ Hello and welcome to my GitHub profile! I'm Haziq, a highly motivated and dedica
 </details>
 -->
 
-
 <details>
 <summary><b>⌚ Waka Stats</b></summary>
 
@@ -65,11 +64,10 @@ XML              7 mins          ▓░░░░░░░░░░░░░░�
 
 </details>
 
-
 <details>
 <summary><b>💻 Typing Speed</b></summary>
 <div align="center">
 	<a href="https://monkeytype.com/profile/Kyziq">via MonkeyType</a>, Time/Words | WPM | Accuracy
-	<img alt="Typing Speed" src="https://cdn.discordapp.com/attachments/737895516163145748/1110576951816630272/image.png?size=4096" width="90%"/>
+	<img alt="Typing Speed" src="../Kyziq/img/typing-speed.png" width="90%"/>
 </div>
 </details>
