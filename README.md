@@ -53,11 +53,11 @@ Hey there! I'm Haziq, a highly motivated and dedicated computer science student 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       9 hrs 25 mins   ██████████████████▓░░░░░░   74.12 %
-Java             1 hr 23 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
-JSON             1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
-JavaScript       36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-Other            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+TypeScript      8 hrs 47 mins   ███████████████████▓░░░░░   78.29 %
+JSON            1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+JavaScript      36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Java            34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Other           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
