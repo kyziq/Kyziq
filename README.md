@@ -69,7 +69,7 @@ Markdown          8 mins          ░░░░░░░░░░░░░░░�
 <summary><b>💻 Typing Speed</b></summary>
 <br/>
 	
-<div>
+<div align="center">
 	<a href="https://monkeytype.com/profile/Kyziq">via MonkeyType</a>, Time/Words | WPM | Accuracy
 	<img alt="Typing Speed" src="/img/typing-speed.png" width="70%"/>
 </div>
