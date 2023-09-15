@@ -50,6 +50,7 @@ Hey there! I'm Haziq, a highly motivated and dedicated computer science student 
 <details>
 <summary><b>⌚ Waka Stats</b></summary>
 <br/>
+Over the last 7 days. 
 <!--START_SECTION:waka-->
 
 ```txt
@@ -67,9 +68,9 @@ Markdown          8 mins          ░░░░░░░░░░░░░░░�
 <details>
 <summary><b>💻 Typing Speed</b></summary>
 <br/>
-<div align="center">
+	
+<div>
 	<a href="https://monkeytype.com/profile/Kyziq">via MonkeyType</a>, Time/Words | WPM | Accuracy
 	<img alt="Typing Speed" src="/img/typing-speed.png" width="70%"/>
 </div>
-
 </details>
