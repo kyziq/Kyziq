@@ -54,11 +54,11 @@ Over the last 7 days.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        24 hrs 20 mins  █████████████████████▒░░░   84.89 %
-JSON              2 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-JavaScript        1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-SQL               11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Markdown          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+TypeScript        24 hrs 20 mins  ██████████████████████▒░░   88.71 %
+JSON              2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+JavaScript        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+SQL               11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Assembly          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
