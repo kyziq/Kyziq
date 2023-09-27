@@ -54,6 +54,10 @@ Over the last 7 days.
 <!--START_SECTION:waka-->
 
 ```txt
+From: 19 September 2023 - To: 26 September 2023
+
+Total Time: 30 hrs 33 mins
+
 TypeScript     26 hrs 26 mins  █████████████████████▒░░░   85.57 %
 SCSS           1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
 JSON           1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
