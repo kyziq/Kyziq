@@ -53,14 +53,11 @@ Hey there! I'm Haziq, a highly motivated and dedicated computer science student 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 November 2023 - To: 09 November 2023
+From: 03 November 2023 - To: 10 November 2023
 
-Total Time: 2 hrs 43 mins
+Total Time: 0 secs
 
-TypeScript   1 hr 45 mins    ████████████████░░░░░░░░░   64.62 %
-HTML         57 mins         ████████▓░░░░░░░░░░░░░░░░   35.26 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
