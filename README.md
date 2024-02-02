@@ -53,11 +53,11 @@ Hey there! I'm Haziq, a highly motivated and dedicated computer science student 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2024 - To: 31 January 2024
+From: 25 January 2024 - To: 01 February 2024
 
-Total Time: 1 hr 44 mins
+Total Time: 16 mins
 
-TypeScript   1 hr 44 mins    █████████████████████████   100.00 %
+TypeScript   16 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
