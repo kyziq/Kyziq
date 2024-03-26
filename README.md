@@ -53,11 +53,14 @@ Hey there! I'm Haziq, a highly motivated and dedicated computer science student 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2024 - To: 24 March 2024
+From: 18 March 2024 - To: 25 March 2024
 
-Total Time: 0 secs
+Total Time: 2 mins
 
-No activity tracked
+YAML         1 min           ████████████████████░░░░░   79.74 %
+Markdown     0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+JSON         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
