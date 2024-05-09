@@ -53,7 +53,7 @@ Hey there! I'm Haziq, a highly motivated and dedicated computer science student 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2024 - To: 07 May 2024
+From: 01 May 2024 - To: 08 May 2024
 
 Total Time: 5 mins
 
