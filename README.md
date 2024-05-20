@@ -53,15 +53,15 @@ Hey there! I'm Haziq, a highly motivated and dedicated computer science student 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 May 2024 - To: 18 May 2024
+From: 12 May 2024 - To: 19 May 2024
 
-Total Time: 22 hrs 47 mins
+Total Time: 12 hrs 53 mins
 
-Dart             20 hrs 47 mins  ██████████████████████▓░░   90.83 %
-YAML             1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-JSON             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-XML              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Git Config       8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Dart          11 hrs 33 mins  ██████████████████████▒░░   88.97 %
+YAML          28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+JSON          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+XML           13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Markdown      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
