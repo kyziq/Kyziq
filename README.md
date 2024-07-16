@@ -8,7 +8,11 @@ Hey there! I'm Haziq, a highly motivated and dedicated computer science student 
 [![Email](https://custom-icon-badges.demolab.com/badge/Email-8B0000?style=for-the-badge&logo=mail&logoColor=white)](mailto:ihaziqkhairi@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c0)](https://leetcode.com/Kyziq/)
 
-![Snake Contribution GIF](https://github.com/Kyziq/Kyziq/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kyziq/Kyziq/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kyziq/Kyziq/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake Contribution GIF" src="https://github.com/Kyziq/Kyziq/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <!--
 <h2 align="left">Languages & Tools</h2>
