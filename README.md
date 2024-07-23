@@ -57,15 +57,15 @@ Hey there! I'm Haziq, a highly motivated and dedicated computer science student 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 July 2024 - To: 21 July 2024
+From: 15 July 2024 - To: 22 July 2024
 
-Total Time: 22 hrs 40 mins
+Total Time: 16 hrs 49 mins
 
-TypeScript    14 hrs 26 mins  ████████████████░░░░░░░░░   63.54 %
-Markdown      2 hrs 54 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-JSON          2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
-JavaScript    51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-TSConfig      50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+TypeScript    11 hrs 47 mins  █████████████████▓░░░░░░░   70.05 %
+JSON          2 hrs 27 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
+Markdown      56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+Bash          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+JavaScript    28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->
