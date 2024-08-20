@@ -1,6 +1,6 @@
 # Haziq Khairi 😎
 
-**`Fullstack Dev Wannabe [ Undergraduate Student ] [ YTM Scholar ]`**
+**`Fullstack Dev Wannabe [ Undergraduate Student ] [ Yayasan TM Scholar ]`**
 
 Hey there! I'm Haziq, a highly motivated and dedicated computer science student with a strong passion for full stack development 🚀. Constantly engaged in self-study and collaboration with peers, I'm on a mission to enhance my skills and become a proficient full stack developer. What's more, I'm not just coding; I'm also a lightning-fast typist, clocking in at 100+ words per minute with impressive accuracy 💨.
 
