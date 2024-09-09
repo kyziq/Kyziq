@@ -80,3 +80,12 @@ TSConfig     14 mins         ▒░░░░░░░░░░░░░░░░
 	<img alt="Typing Speed" src="/img/typing-speed.png" width="70%"/>
 </div>
 </details>
+
+<details>
+<summary><b>🛠️ Random Projects</b></summary>
+<br/>
+These are just some fun side projects I work on when I have spare time. Since you’re here, feel free to check them out!
+
+🔗 [WhatsApp Message Counter](https://kyziq.github.io/whatsapp-message-counter/)
+</details>
+
