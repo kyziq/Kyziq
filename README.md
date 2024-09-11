@@ -1,8 +1,8 @@
-# Haziq Khairi 😎
+# Hey there! 😎
 
 **`Fullstack Dev Wannabe [ Undergraduate Student ] [ Yayasan TM Scholar ]`**
 
-Hey there! I'm Haziq, a highly motivated and dedicated computer science student with a strong passion for full stack development 🚀. Constantly engaged in self-study and collaboration with peers, I'm on a mission to enhance my skills and become a proficient full stack developer. What's more, I'm not just coding; I'm also a lightning-fast typist, clocking in at 100+ words per minute with impressive accuracy 💨.
+**I'm Haziq**, a highly motivated and dedicated computer science student with a strong passion for full stack development 🚀 I'm on a mission to enhance my skills and become a proficient developer. What's more, I'm not just coding; I'm also a lightning-fast typist, clocking in at 100+ words per minute with impressive accuracy 💨
 
 <!--[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HaziqKhairi/)-->
 <!--[![Email](https://custom-icon-badges.demolab.com/badge/Email-8B0000?style=for-the-badge&logo=mail&logoColor=white)](mailto:ihaziqkhairi@gmail.com)-->
@@ -76,7 +76,7 @@ TSConfig     15 mins         ▒░░░░░░░░░░░░░░░░
 <summary><b>💻 Typing Speed</b></summary>
 <br/>
 <div align="center">
-	<a href="https://monkeytype.com/profile/Kyziq">via MonkeyType</a>, Time/Words | WPM | Accuracy
+	<a href="https://monkeytype.com/profile/Kyziq">via MonkeyType</a>, time/words | WPM | accuracy
 	<img alt="Typing Speed" src="/img/typing-speed.png" width="70%"/>
 </div>
 </details>
@@ -85,7 +85,6 @@ TSConfig     15 mins         ▒░░░░░░░░░░░░░░░░
 <summary><b>🛠️ Random Projects</b></summary>
 <br/>
 These are just some fun side projects I work on when I have spare time. Since you’re here, feel free to check them out!
-
+<br/><br/>
 🔗 [WhatsApp Message Counter](https://kyziq.github.io/whatsapp-message-counter/)
 </details>
-
