@@ -86,5 +86,7 @@ Python       5 mins          █░░░░░░░░░░░░░░░░
 <br/>
 These are just some fun side projects I work on when I have spare time. Since you’re here, feel free to check them out!
 <br/><br/>
+	
 🔗 [WhatsApp Message Counter](https://kyziq.github.io/whatsapp-message-counter/)
+	
 </details>
