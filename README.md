@@ -100,14 +100,13 @@ YAML                     6 mins              ░░░░░░░░░░░�
 <details>
 <summary><b>💻 Typing Speed</b></summary>
 
-<a href="https://monkeytype.com/profile/Kyziq">
-	<img src="https://raw.githubusercontent.com/Kyziq/Kyziq/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
-</a>
-
 <br/>
 <div align="center">
-	<a href="https://monkeytype.com/profile/Kyziq">via MonkeyType</a>, time/words | WPM | accuracy
-	<img alt="Typing Speed" src="/img/typing-speed.png" width="70%"/>
+	<a href="https://monkeytype.com/profile/Kyziq">
+		<img src="https://raw.githubusercontent.com/Kyziq/Kyziq/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
+	</a>
+	<!-- <a href="https://monkeytype.com/profile/Kyziq">via MonkeyType</a>, time/words | WPM | accuracy
+	<img alt="Typing Speed" src="/img/typing-speed.png" width="70%"/> -->
 </div>
 </details>
 
