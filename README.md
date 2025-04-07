@@ -1,8 +1,8 @@
 # Hey there! 😎
 
-**`Fullstack Dev Wannabe [ Undergraduate Student ] [ Yayasan TM Scholar ]`**
+**`Fullstack Dev Wannabe [ Undergraduate Student ] [ Software Engineer Intern ] [ Yayasan TM Scholar ]`**
 
-**I'm Haziq**, a highly motivated and dedicated computer science student with a strong passion for full stack development 🚀 I'm on a mission to enhance my skills and become a proficient developer. What's more, I'm not just coding; I'm also a lightning-fast typist, clocking in at 100+ words per minute with impressive accuracy 💨
+**I'm Haziq**, a highly motivated and dedicated computer science student with a strong passion for full stack development 🚀 I'm on a mission to enhance my skills and become a proficient developer. I'm not just coding; I'm also a lightning-fast typist, clocking in at 100+ words per minute with impressive accuracy since I was a kid ᕙ(  •̀ ᗜ •́  )ᕗ 
 
 <!--[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HaziqKhairi/)-->
 <!--[![Email](https://custom-icon-badges.demolab.com/badge/Email-8B0000?style=for-the-badge&logo=mail&logoColor=white)](mailto:ihaziqkhairi@gmail.com)-->
@@ -106,6 +106,7 @@ No Activity Tracked This Week
 </div>
 </details>
 
+<!--
 <details>
 <summary><b>🛠️ Random Projects</b></summary>
 <br/>
@@ -115,3 +116,4 @@ These are just some fun side projects I work on when I have spare time. Since yo
 🔗 [WhatsApp Message Counter](https://kyziq.github.io/whatsapp-message-counter/)
 	
 </details>
+-->
