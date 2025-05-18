@@ -1,8 +1,10 @@
-# Hey there! 😎
+# Hey there 😎
 
 **`Fullstack Dev Wannabe [ Software Engineer Intern ] [ Yayasan TM Scholar ]`**
 
+<!--
 **I'm Haziq**, a highly motivated and dedicated computer science student with a strong passion for full stack development 🚀 I'm on a mission to enhance my skills and become a proficient developer. I'm not just coding; I'm also a lightning-fast typist, clocking in at 100+ words per minute with impressive accuracy since I was a kid ᕙ(  •̀ ᗜ •́  )ᕗ 
+-->
 
 <!--[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HaziqKhairi/)-->
 <!--[![Email](https://custom-icon-badges.demolab.com/badge/Email-8B0000?style=for-the-badge&logo=mail&logoColor=white)](mailto:ihaziqkhairi@gmail.com)-->
