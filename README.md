@@ -1,6 +1,6 @@
 # Hey there 😎
 
-**`Fullstack Dev Wannabe [ Software Engineer Intern ] [ Yayasan TM Scholar ]`**
+**`[ Software Engineer ] [ Yayasan TM Scholar ]`**
 
 <!--
 **I'm Haziq**, a highly motivated and dedicated computer science student with a strong passion for full stack development 🚀 I'm on a mission to enhance my skills and become a proficient developer. I'm not just coding; I'm also a lightning-fast typist, clocking in at 100+ words per minute with impressive accuracy since I was a kid ᕙ(  •̀ ᗜ •́  )ᕗ 
