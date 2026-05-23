@@ -60,38 +60,6 @@
 <br/>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                858 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-🌆 Daytime                4770 commits        ███████████░░░░░░░░░░░░░░   43.26 % 
-🌃 Evening                3656 commits        ████████░░░░░░░░░░░░░░░░░   33.15 % 
-🌙 Night                  1743 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   811 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Tuesday                  3124 commits        ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-Wednesday                1517 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Thursday                 846 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Friday                   2354 commits        █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-Saturday                 1628 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Sunday                   747 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               8 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-Astro                    7 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-YAML                     7 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
-JSON                     3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Other                    1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-```
-
 
 <!--END_SECTION:waka-->
 
