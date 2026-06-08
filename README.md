@@ -60,6 +60,40 @@
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C607%20hrs%2021%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1102 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+🌆 Daytime                4994 commits        ██████████░░░░░░░░░░░░░░░   41.73 % 
+🌃 Evening                3904 commits        ████████░░░░░░░░░░░░░░░░░   32.63 % 
+🌙 Night                  1966 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   904 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Tuesday                  3220 commits        ███████░░░░░░░░░░░░░░░░░░   26.91 % 
+Wednesday                1793 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Thursday                 909 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Friday                   2404 commits        █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Saturday                 1763 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Sunday                   973 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               18 hrs 11 mins      ████████████░░░░░░░░░░░░░   48.32 % 
+JSON                     5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Markdown                 3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+YAML                     2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Bash                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+```
+
 
 <!--END_SECTION:waka-->
 
