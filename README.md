@@ -60,16 +60,16 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C224%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C229%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-843%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-849%20hrs%2055%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                1898 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
 🌆 Daytime                6269 commits        ██████████░░░░░░░░░░░░░░░   39.72 % 
-🌃 Evening                5141 commits        ████████░░░░░░░░░░░░░░░░░   32.58 % 
+🌃 Evening                5142 commits        ████████░░░░░░░░░░░░░░░░░   32.58 % 
 🌙 Night                  2474 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -77,7 +77,7 @@
 ```text
 Monday                   1394 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
 Tuesday                  3887 commits        ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-Wednesday                2562 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Wednesday                2563 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
 Thursday                 1257 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 Friday                   2802 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
 Saturday                 2300 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
@@ -89,37 +89,37 @@ Sunday                   1580 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               15 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   35.07 % 
-Markdown                 12 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-Other                    5 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-YAML                     4 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-JSON                     1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+TypeScript               17 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   34.89 % 
+Markdown                 15 hrs 55 mins      ████████░░░░░░░░░░░░░░░░░   31.89 % 
+Other                    4 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Python                   4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+YAML                     2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 hrs 47 mins (94.4%)
+⏱ AI Coding Time: 48 hrs 17 mins (96.74%)
 
-✍️ 24,719 lines written by AI, 119 lines written by hand (99.52% AI-written)
+✍️ 27,752 lines written by AI, 121 lines written by hand (99.57% AI-written)
 
-🔤 29,077,312 Input Tokens, 4,355,372 Output Tokens
+🔤 34,450,124 Input Tokens, 5,098,362 Output Tokens
 
-💵 $806.76 Estimated AI Cost This Week
+💵 $1115.33 Estimated AI Cost This Week
 
-🧠 175 AI Sessions, 825 AI Prompts
+🧠 206 AI Sessions, 971 AI Prompts
 
-GPT                      20,650 lines        ██████████████████░░░░░░░   73.80 % 
-Opus                     6,061 lines         █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-Fable                    1,228 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Codex-Vscode             43 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+GPT                      22,877 lines        ██████████████████░░░░░░░   73.45 % 
+Opus                     6,993 lines         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Fable                    1,228 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Codex-Vscode             49 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.52% of written lines came from AI
-📄 Detailed Prompter — average 1,266 characters per prompt
+🤖 AI-Driven — 99.57% of written lines came from AI
+📄 Detailed Prompter — average 1,443 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.96% of changed lines were hand-edited
+🚀 High AI Trust — 0.82% of changed lines were hand-edited
 ```
 
 
